@@ -5,8 +5,7 @@ README template for future reference.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![imagename](https://www.legendsoflearning.com/wp-content/uploads/2020/10/benefits-of-online-learning-graphic.png)
 
 Information about the project and technologies.
 
@@ -21,8 +20,7 @@ List languages frameworks/libraries used to built your project.
 
 Examples:
 
-* [![Next][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]][Next-url]
-* [![React][React.js]][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]
+* [![React][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]][https://reactjs.org/]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -53,7 +51,7 @@ This project was built on VSCode/IntelliJ
     `git clone https://github.com/[your_username]/[project-name.git]`
 2. Install NPM packages
    `npm install`
-3. Enter your API in `config.js`
+3. Enter your TOKEN in config.js
    `const TOKEN_KEY = 'ENTER YOUR OWN TOKEN_KEY';`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
