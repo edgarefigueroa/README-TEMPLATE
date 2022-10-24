@@ -20,7 +20,7 @@ List languages frameworks/libraries used to built your project.
 
 Examples:
 
-* [![React][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]][https://reactjs.org/]
+* [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -100,3 +100,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 Distributed under the MIT License. See [LICENSE](https://github.com/edgarefigueroa/README-TEMPLATE/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
