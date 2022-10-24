@@ -6,7 +6,7 @@ README template for future reference.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)r
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Information about the project and technologies.
 
@@ -21,8 +21,8 @@ List languages frameworks/libraries used to built your project.
 
 Examples:
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* [![Next][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]][Next-url]
+* [![React][React.js]][https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -78,7 +78,8 @@ How the project can be used with additional screenshots and demostrating the wor
 <!-- CREDITS -->
 ## Credits
 
-[freecodecamp][https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/]
+[freecodecamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+
 [markdownguide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
 
 <!-- CONTRIBUTING -->
